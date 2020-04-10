@@ -1,0 +1,16 @@
+.navbar{
+  background-color: #70D2F3;
+  letter-spacing: 3px;
+}
+
+.card-header{
+  background-color: #ede887;
+}
+
+.card-footer{
+  background-color: #ede887;
+}
+
+.jumbotron{
+  text-align: center;
+}
